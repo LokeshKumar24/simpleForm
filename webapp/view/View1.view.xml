@@ -9,7 +9,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 				<content>
-				<Button text="Click here"></Button>
+				<Button text="Click here" press="onClick"></Button>
 				</content>
 				</Page>
 			</pages>
